@@ -13,8 +13,8 @@ I'm <b>Douglas</b>, brazilian developer, currently student of the Bachelor's Deg
 <a href="https://www.linkedin.com/in/thedouglasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedouglasilva&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedouglasilva&show_icons=true&count_private=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedouglasaraujo&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedouglasaraujo&show_icons=true&count_private=true&theme=tokyonight)
   
 <!--
 **thedouglasilva/thedouglasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
